@@ -99,3 +99,35 @@ Stage Summary:
 - Repository URL: https://github.com/toponmohonto32-eng/osmangaragedoors
 - Branch: main
 - Commits pushed: 3 commits including all website code
+
+---
+Task ID: 12
+Agent: Main Agent
+Task: Update website to be residential-focused with new hero image
+
+Work Log:
+- Generated new hero image showing Orange County residential home with garage door
+- Generated new service images (repair and installation)
+- Updated hero section with residential home image and messaging
+- Changed hero heading to "Expert Garage Door Services for Your Home"
+- Updated badge to "Trusted by Orange County Homeowners"
+- Changed trust indicators to "5.0 Homeowner Rating" and "Same-Day Service"
+- Updated About Us section with residential-focused content
+- Changed title to "Your Neighborhood Garage Door Experts"
+- Updated About text to mention family-owned business and serving homeowners
+- Changed stats to "Years Serving Homeowners" and "Homes Serviced"
+- Updated services header to "Residential Garage Door Services"
+- Updated service descriptions to focus on residential customers
+- Changed "Garage Door Repair" to "Residential Garage Door Repair"
+- Updated spring replacement with 25,000+ cycle springs for busy families
+- Updated gallery items with residential descriptions
+- Updated metadata in layout.tsx for residential SEO
+- Changed OpenGraph image to residential hero
+- Fixed apostrophe escaping issue in shortDescription
+
+Stage Summary:
+- Website now fully focused on residential/homeowner customers
+- New hero image shows typical Orange County suburban home
+- All messaging speaks directly to homeowners
+- Services emphasize home security, family safety, curb appeal
+- SEO updated for residential keywords

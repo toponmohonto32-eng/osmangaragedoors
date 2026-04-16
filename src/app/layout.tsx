@@ -15,32 +15,32 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.osmangaragedoors.com'),
-  title: "Osman Garage Doors | Professional Garage Door Repair & Installation in Long Beach, CA",
-  description: "Professional garage door repair, installation, and maintenance services in Long Beach, CA. 24/7 emergency service, expert technicians, and guaranteed satisfaction. Call (562) 335-6674 for a free estimate.",
-  keywords: ["garage door repair", "garage door installation", "Long Beach", "California", "garage door opener", "spring replacement", "emergency garage door", "24/7 service"],
+  title: "Osman Garage Doors | Residential Garage Door Repair & Installation in Long Beach & Orange County",
+  description: "Trusted residential garage door repair and installation for Long Beach & Orange County homeowners. Same-day service, honest pricing, family-owned. Spring replacement, new doors, openers. Call (562) 335-6674.",
+  keywords: ["residential garage door repair", "garage door installation", "Long Beach", "Orange County", "home garage door", "spring replacement", "garage door opener", "same-day service", "family-owned garage door"],
   authors: [{ name: "Osman Garage Doors" }],
   icons: {
     icon: "/logo.png",
   },
   openGraph: {
-    title: "Osman Garage Doors | Long Beach Garage Door Experts",
-    description: "Professional garage door repair and installation services in Long Beach, CA. Fast response, quality work, fair prices.",
+    title: "Osman Garage Doors | Residential Garage Door Experts",
+    description: "Trusted by Orange County homeowners for garage door repair and installation. Same-day service, honest pricing, quality work.",
     url: "https://www.osmangaragedoors.com",
     siteName: "Osman Garage Doors",
     type: "website",
     images: [
       {
-        url: "/hero-garage.png",
+        url: "/hero-residential.png",
         width: 1200,
         height: 630,
-        alt: "Osman Garage Doors - Professional Garage Door Services",
+        alt: "Osman Garage Doors - Residential Garage Door Services for Your Home",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Osman Garage Doors | Long Beach Garage Door Experts",
-    description: "Professional garage door repair and installation services in Long Beach, CA. Fast response, quality work, fair prices.",
+    title: "Osman Garage Doors | Residential Garage Door Experts",
+    description: "Trusted by Orange County homeowners for garage door repair and installation. Same-day service, honest pricing, quality work.",
   },
   robots: {
     index: true,

@@ -92,27 +92,27 @@ const services: Service[] = [
   {
     id: 'garage-door-repair',
     icon: Wrench,
-    title: 'Garage Door Repair',
-    shortDescription: 'Expert repair services for all garage door issues including broken springs, cables, rollers, and more.',
-    fullDescription: `Our comprehensive garage door repair service covers all makes and models. Whether you're dealing with a broken spring, malfunctioning opener, or misaligned tracks, our certified technicians have the expertise to diagnose and fix the problem quickly. We stock our trucks with common replacement parts to ensure same-day repairs for most issues.
+    title: 'Residential Garage Door Repair',
+    shortDescription: 'Fast, reliable repairs for your home garage door. Springs, cables, rollers, and more fixed the same day.',
+    fullDescription: `Your home's garage door is essential for your family's security and convenience. When it breaks, you need it fixed fast. Our residential repair specialists understand the urgency and arrive prepared to fix most problems in a single visit.
 
-We understand that a broken garage door is more than an inconvenience – it's a security risk. That's why we offer 24/7 emergency repair services throughout Long Beach and surrounding areas. Our technicians arrive within 60 minutes for emergency calls, equipped with everything needed to get your door working again.`,
+We repair all residential garage door brands and models common in Orange County and Long Beach homes. From broken torsion springs to worn rollers, misaligned tracks to damaged panels, our technicians have the parts and expertise to get your garage door working safely again. We never try to sell you a new door when a repair will do the job.`,
     features: ['Spring Replacement', 'Cable Repair', 'Roller Replacement', 'Track Alignment', 'Panel Replacement', 'Hinge Repair'],
-    benefits: ['Same-day service available', 'All brands and models', 'Upfront pricing', '90-day labor warranty', 'Emergency 24/7 service'],
-    image: '/service-repair.png',
+    benefits: ['Same-day service available', 'All residential brands', 'Upfront pricing', '90-day labor warranty', 'Emergency 24/7 service'],
+    image: '/service-repair-new.png',
     price: 'Starting at $89'
   },
   {
     id: 'new-installation',
     icon: HomeIcon,
     title: 'New Garage Door Installation',
-    shortDescription: 'Professional installation of new garage doors with a wide selection of styles and materials.',
-    fullDescription: `Transform your home's curb appeal with a beautiful new garage door from Osman Garage Doors. We offer an extensive selection of styles, materials, and colors to complement any home architecture. From classic raised panel doors to modern full-view aluminum designs, we have options for every taste and budget.
+    shortDescription: 'Beautiful new garage doors that enhance your home\'s curb appeal and value.',
+    fullDescription: `A new garage door is one of the best investments you can make for your home. It dramatically improves curb appeal, increases home value, and provides better security and energy efficiency. We offer a wide selection of residential garage doors perfect for Southern California homes.
 
-Our installation process is thorough and precise. We handle everything from removing your old door to final calibration and safety testing. Every installation includes a comprehensive warranty on both materials and labor, giving you peace of mind for years to come.`,
-    features: ['Custom Designs', 'Modern Styles', 'Carriage House', 'Full-View Aluminum', 'Steel Doors', 'Wood & Faux Wood'],
-    benefits: ['Free in-home consultation', 'Professional measurement', 'Same-day installation available', '5-year parts warranty', 'Energy efficient options'],
-    image: '/service-install.png',
+From classic raised panel steel doors to charming carriage house styles, modern aluminum with glass panels to traditional wood-look designs – we have options to match every home style. Our expert installers ensure perfect fit and operation, backed by comprehensive warranties.`,
+    features: ['Raised Panel Doors', 'Carriage House Style', 'Modern Aluminum', 'Insulated Steel', 'Faux Wood Grain', 'Custom Colors'],
+    benefits: ['Free in-home consultation', 'Boost home value', 'Energy efficient options', '5-year parts warranty', 'Professional removal & install'],
+    image: '/service-install-new.png',
     price: 'Starting at $599'
   },
   {
@@ -125,20 +125,20 @@ Our installation process is thorough and precise. We handle everything from remo
 Modern garage door openers offer incredible features like smartphone control, battery backup, and ultra-quiet operation. We'll help you choose the right opener for your needs and budget, then install it properly to ensure years of trouble-free operation.`,
     features: ['LiftMaster', 'Chamberlain', 'Genie', 'Craftsman', 'Smart Home Integration', 'Remote Programming'],
     benefits: ['Wi-Fi enabled options', 'Ultra-quiet motors', 'Battery backup available', 'Smartphone control', 'Safety sensor alignment'],
-    image: '/hero-garage.png',
+    image: '/service-repair-new.png',
     price: 'Starting at $199'
   },
   {
     id: 'spring-replacement',
     icon: Zap,
     title: 'Spring Replacement',
-    shortDescription: 'Professional torsion and extension spring replacement with high-cycle options available.',
-    fullDescription: `Garage door springs are under extreme tension and are the most common component to fail. A broken spring can leave your garage door completely inoperable and potentially dangerous. Our spring replacement service uses only high-quality, high-cycle springs that last longer than standard replacements.
+    shortDescription: 'High-quality torsion and extension spring replacement with long-lasting high-cycle options.',
+    fullDescription: `Broken garage door springs are the #1 reason homeowners call us. A broken spring makes your garage door impossible to lift safely and can damage your opener if you try. Our spring replacement service uses premium high-cycle springs designed for the daily use typical of busy families.
 
-We offer both torsion springs (mounted above the door) and extension springs (mounted on the sides) to match your door's original configuration. Our technicians follow strict safety protocols and will inspect all related components to ensure your door operates safely and efficiently.`,
-    features: ['Torsion Springs', 'Extension Springs', 'High-Cycle Springs', 'Galvanized Springs', 'Pair Replacement', 'Safety Inspection'],
-    benefits: ['10,000+ cycle springs', 'Same-day replacement', '2-year warranty', 'Includes safety check', 'Balanced door operation'],
-    image: '/service-repair.png',
+We replace both torsion springs (above the door) and extension springs (along the sides). Our technicians always replace springs in pairs to ensure balanced, smooth operation. Every spring replacement includes a full safety inspection of your entire garage door system.`,
+    features: ['Torsion Springs', 'Extension Springs', 'High-Cycle Springs (25,000+ cycles)', 'Galvanized Rust-Resistant', 'Both Springs Replaced', 'Safety Inspection'],
+    benefits: ['Longer-lasting springs', 'Same-day replacement', '2-year warranty', 'Full safety check', 'Smoother, quieter operation'],
+    image: '/service-repair-new.png',
     price: 'Starting at $149'
   },
   {
@@ -151,7 +151,7 @@ We offer both torsion springs (mounted above the door) and extension springs (mo
 Our emergency technicians are on call around the clock, including nights, weekends, and holidays. We prioritize emergency calls and typically arrive within 60 minutes. We'll assess the situation, provide emergency repairs to secure your home, and discuss any follow-up work needed.`,
     features: ['24/7 Available', 'Fast Response', 'Same-Day Service', 'Weekend Service', 'Holiday Service', 'Security Solutions'],
     benefits: ['60-minute response time', 'No extra charge for nights', 'Full diagnostic included', 'Temporary solutions available', 'Follow-up scheduling'],
-    image: '/hero-garage.png',
+    image: '/service-repair-new.png',
     price: 'Call for pricing'
   },
   {
@@ -229,14 +229,14 @@ const testimonials: Testimonial[] = [
 
 // Gallery Data
 const galleryItems: GalleryItem[] = [
-  { id: '1', title: 'Modern Steel Door Installation', category: 'Installation', image: '/hero-garage.png', description: 'Sleek modern steel garage door with windows' },
-  { id: '2', title: 'Spring Replacement', category: 'Repair', image: '/service-repair.png', description: 'High-cycle torsion spring replacement' },
-  { id: '3', title: 'Custom Carriage House Door', category: 'Installation', image: '/service-install.png', description: 'Beautiful carriage house style door' },
-  { id: '4', title: 'Opener Installation', category: 'Installation', image: '/hero-garage.png', description: 'Smart garage door opener setup' },
-  { id: '5', title: 'Track Realignment', category: 'Repair', image: '/service-repair.png', description: 'Professional track alignment service' },
-  { id: '6', title: 'Panel Replacement', category: 'Repair', image: '/service-install.png', description: 'Damaged panel replacement' },
-  { id: '7', title: 'Full-View Aluminum Door', category: 'Installation', image: '/hero-garage.png', description: 'Contemporary full-view aluminum door' },
-  { id: '8', title: 'Cable Replacement', category: 'Repair', image: '/service-repair.png', description: 'Safety cable replacement' },
+  { id: '1', title: 'Traditional Raised Panel Door', category: 'Installation', image: '/hero-residential.png', description: 'Classic raised panel door perfect for Orange County homes' },
+  { id: '2', title: 'Spring Replacement', category: 'Repair', image: '/service-repair-new.png', description: 'High-cycle torsion spring replacement for residential door' },
+  { id: '3', title: 'Carriage House Style Door', category: 'Installation', image: '/service-install-new.png', description: 'Beautiful carriage house style door installed' },
+  { id: '4', title: 'Smart Opener Installation', category: 'Installation', image: '/service-repair-new.png', description: 'WiFi-enabled garage door opener setup' },
+  { id: '5', title: 'Track Realignment', category: 'Repair', image: '/service-repair-new.png', description: 'Professional track alignment service' },
+  { id: '6', title: 'Panel Replacement', category: 'Repair', image: '/service-install-new.png', description: 'Damaged panel replacement on residential door' },
+  { id: '7', title: 'Insulated Steel Door', category: 'Installation', image: '/hero-residential.png', description: 'Energy efficient insulated garage door' },
+  { id: '8', title: 'Cable Replacement', category: 'Repair', image: '/service-repair-new.png', description: 'Safety cable replacement for family security' },
 ];
 
 // Process Steps
@@ -406,8 +406,8 @@ function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/hero-garage.png"
-          alt="Modern Garage Door"
+          src="/hero-residential.png"
+          alt="Beautiful Residential Home with Modern Garage Door"
           fill
           className="object-cover"
           priority
@@ -425,20 +425,21 @@ function HeroSection() {
         <div className="max-w-3xl">
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 mb-6 animate-fade-in-up opacity-0" style={{ animationDelay: '0.2s', animationFillMode: 'forwards' }}>
-            <Award className="w-4 h-4 text-primary" />
-            <span className="text-sm font-medium text-primary">Long Beach&apos;s Trusted Garage Door Experts</span>
+            <HomeIcon className="w-4 h-4 text-primary" />
+            <span className="text-sm font-medium text-primary">Trusted by Orange County Homeowners</span>
           </div>
 
           {/* Main Heading */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight mb-6 animate-fade-in-up opacity-0" style={{ animationDelay: '0.3s', animationFillMode: 'forwards' }}>
-            Premium Garage Door
-            <span className="gradient-text block">Repair & Installation</span>
+            Expert Garage Door
+            <span className="gradient-text block">Services for Your Home</span>
           </h1>
 
           {/* Description */}
           <p className="text-lg sm:text-xl text-muted-foreground mb-8 max-w-2xl animate-fade-in-up opacity-0" style={{ animationDelay: '0.4s', animationFillMode: 'forwards' }}>
-            Professional garage door services for Long Beach and surrounding areas. 
-            Fast response, expert technicians, and guaranteed satisfaction since day one.
+            Fast, reliable garage door repair and installation for Long Beach 
+            and Orange County homeowners. Same-day service, honest pricing, 
+            and work that lasts.
           </p>
 
           {/* CTA Buttons */}
@@ -465,7 +466,7 @@ function HeroSection() {
                   <Star key={i} className="w-5 h-5 text-yellow-500 fill-yellow-500" />
                 ))}
               </div>
-              <span className="text-sm font-medium">5.0 Rating</span>
+              <span className="text-sm font-medium">5.0 Homeowner Rating</span>
             </div>
             <div className="h-6 w-px bg-border" />
             <div className="flex items-center gap-2">
@@ -475,7 +476,7 @@ function HeroSection() {
             <div className="h-6 w-px bg-border" />
             <div className="flex items-center gap-2">
               <Clock className="w-5 h-5 text-primary" />
-              <span className="text-sm font-medium">24/7 Emergency Service</span>
+              <span className="text-sm font-medium">Same-Day Service</span>
             </div>
           </div>
         </div>
@@ -505,11 +506,11 @@ function ServicesSection() {
             Our Services
           </Badge>
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">
-            Comprehensive Garage Door Solutions
+            Residential Garage Door Services
           </h2>
           <p className="text-lg text-muted-foreground">
-            From quick repairs to complete installations, we provide expert services 
-            tailored to your specific needs. Click on any service to learn more.
+            From quick repairs to beautiful new installations, we keep your home&apos;s 
+            garage door working perfectly. Click on any service to learn more.
           </p>
         </div>
 
@@ -644,8 +645,8 @@ function AboutSection() {
   ];
 
   const stats = [
-    { value: '10+', label: 'Years Experience' },
-    { value: '5000+', label: 'Happy Customers' },
+    { value: '10+', label: 'Years Serving Homeowners' },
+    { value: '5000+', label: 'Homes Serviced' },
     { value: '24/7', label: 'Emergency Service' },
     { value: '100%', label: 'Satisfaction Rate' }
   ];
@@ -658,8 +659,8 @@ function AboutSection() {
           <div className="relative">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <Image
-                src="/service-repair.png"
-                alt="Professional Garage Door Service"
+                src="/service-install-new.png"
+                alt="Professional Garage Door Service for Your Home"
                 width={600}
                 height={500}
                 className="w-full h-auto object-cover"
@@ -673,7 +674,7 @@ function AboutSection() {
                 </div>
                 <div>
                   <p className="font-bold text-lg">Years Experience</p>
-                  <p className="text-muted-foreground text-sm">Serving Long Beach</p>
+                  <p className="text-muted-foreground text-sm">Serving Homeowners</p>
                 </div>
               </div>
             </div>
@@ -694,18 +695,17 @@ function AboutSection() {
               About Us
             </Badge>
             <h2 className="text-3xl sm:text-4xl font-bold mb-6">
-              Long Beach&apos;s Most Trusted Garage Door Experts
+              Your Neighborhood Garage Door Experts
             </h2>
             <p className="text-lg text-muted-foreground mb-6">
-              At Osman Garage Doors, we combine years of expertise with a commitment to 
-              excellence. Our team delivers top-quality garage door solutions with 
-              professionalism and care that our customers have come to trust.
+              Osman Garage Doors has been serving Orange County and Long Beach homeowners 
+              for over a decade. We understand that your garage door is an essential part 
+              of your home – it protects your family, your vehicles, and your belongings.
             </p>
             <p className="text-muted-foreground mb-8">
-              Founded on the principles of honesty, reliability, and quality workmanship, 
-              we&apos;ve grown to become one of Long Beach&apos;s most trusted garage door service 
-              providers. Whether you need a simple repair or a complete door replacement, 
-              we approach every job with the same dedication to excellence.
+              As a family-owned business, we treat every home like it&apos;s our own. We show up 
+              on time, explain our work clearly, and never push unnecessary services. Our 
+              reputation is built on honest service and quality workmanship at fair prices.
             </p>
 
             {/* Features Grid */}
